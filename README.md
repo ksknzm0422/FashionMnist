@@ -1,1 +1,2 @@
 # FashionMnist
+使用jupyter或者colab打开main.ipynb文件，在文件中包含训练和测试的代码部分对于训练部分，可以设置学习率，正则大小，迭代次数和批量大小，通过load_weights函数导入保存的权重文件路径，通过test_model函数评估模型的性能
